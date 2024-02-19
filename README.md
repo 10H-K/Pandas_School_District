@@ -2,7 +2,7 @@
 
 ## Overview ##
 
-The objective of this project is to help relevant authorities, such as the school board and the mayor, make strategic decisions regarding future school budgets and priorities. To accomplish this, the created Jupyter Notebook analyzes the district-wide school data, which includes every student's math and reading scores along with various information on the schools they attend, to reveal trends in school performance.
+The objective of this project is to help relevant authorities, such as the school board and mayor, make strategic decisions regarding future school budgets and priorities. To accomplish this, the created Jupyter Notebook analyzes the district-wide school data, which includes every student's math and reading scores along with various information on the schools they attend, to reveal trends in school performance.
 
 ## Process ##
 
