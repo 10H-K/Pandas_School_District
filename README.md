@@ -55,7 +55,7 @@ H) Scores by School Spending: breakdown of student performance based on school s
 
 I) Scores by School Size: breakdown of student performance based on school size
   1. Establishment of size bins and associated labels
-  2. Utilization of `pd.cut` on "Total Students" column of the `per_school_summary` DataFrame
+  2. Utilization of `pd.cut` on "Total Students" column of the school summary DataFrame
   3. Calculations for average student performance based on size bins/labels
   4. Creation and formatting of DataFrame displaying student performance district wide based on size bins/labels
 
