@@ -49,7 +49,7 @@ G) Reading Scores by Grade: calculated for each individual school
 H) Scores by School Spending: breakdown of student performance based on school spending per capita
   1. Establishment of spending bins and associated labels
   2. Creation of school summary DataFrame copy
-  3. Utilization of `pd.cut` for categorization of school spending based on bins
+  3. Utilization of `pd.cut` for categorization of school spending per capita based on bins
   4. Calculations for average student performance based on spending bins/labels
   5. Creation and formatting of DataFrame displaying student performance district wide based on spending bins/labels
 
