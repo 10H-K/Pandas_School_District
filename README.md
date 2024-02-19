@@ -9,7 +9,7 @@ The objective of this project is to help relevant authorities, such as the schoo
 A) Setup:
   1. Importation of dependencies (Pandas and Path)
   2. Setting file path to target csv files (school data and student data)
-  3. Reading both csv data files, storing into Pandas DataFrames
+  3. Reading both csv files, storing into Pandas DataFrames
   4. Combination of DataFrames into single DataFrame
 
 B) District Summary: district's key metrics for budget and student performance
